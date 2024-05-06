@@ -42,7 +42,7 @@ yarn :
 
 9. 記錄下你的 APPLICATION ID , PUBLIC KEY , TOKEN (圖片附件3,4)
 
-10. 創建一個.env 檔案，並且將你的 APPLICATION ID 、 PUBLIC KEY 、 TOKEN 填入其中 (注意：.env檔案請勿上傳到github，不過本文件會全部上傳，以便參考)
+10. 創建一個.env 檔案，並且將你的 APPLICATION ID 、 PUBLIC KEY 、 TOKEN 填入其中 (圖片附件5)
 
 11. 將以下程式碼複製貼上到index.js檔案中
 ```
